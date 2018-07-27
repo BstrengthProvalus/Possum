@@ -120,3 +120,5 @@ c:\users\billie strength\source\repos\PossumProject\PossumProject\obj\Debug\Poss
 c:\users\billie strength\source\repos\PossumProject\PossumProject\obj\Debug\PossumProject.csproj.CopyComplete
 c:\users\billie strength\source\repos\PossumProject\PossumProject\obj\Debug\PossumProject.dll
 c:\users\billie strength\source\repos\PossumProject\PossumProject\obj\Debug\PossumProject.pdb
+C:\Users\Billie Strength\source\repos\Possum3\obj\Debug\PossumProject.dll
+C:\Users\Billie Strength\source\repos\Possum3\obj\Debug\PossumProject.pdb
