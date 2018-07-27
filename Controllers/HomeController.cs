@@ -12,7 +12,7 @@ namespace PossumProject.Controllers
 
         public ActionResult Index()
         {
-            return View(db.Inventories.ToList());
+            return View();
         }
 
         public ActionResult About()
